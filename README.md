@@ -1,7 +1,11 @@
 testcase related files
+
 page/menu_and_page_load_spec.js
+
 fixtures/urls.json
+
 e2e/HomePageMenu.cy.js
+
 selectors/locators.css.js
 
 
